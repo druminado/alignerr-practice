@@ -1,0 +1,5 @@
+## DCF Analysis Task — Review Notes
+
+**Issue found:** Discount rate not properly defined in task instructions.
+**Fix:** Added WACC calculation step with explicit formula reference.
+**Status:** Resolved
